@@ -6,3 +6,5 @@ To use, you'll have to generate a Client ID by going to the Google API Dashboard
 Then you'll need to put your client ID and client secret into the two constants at the beginning of `./main.dart`
 
 Since this would be an unverified Google App, you could only make the program authenticate you 100 times unfortunately. If you wanted to run it more than that, you would have to create a privacy policy, etc. and get them to verify you through the same Credentials page in the API Dashboard
+
+Once you have it running, add a new file to the directory of the program, and it will be added to your Google Drive
