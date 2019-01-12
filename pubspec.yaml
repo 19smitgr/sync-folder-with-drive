@@ -1,0 +1,5 @@
+name: Backup
+dependencies:
+  watcher: ^0.9.7+10
+  googleapis: ^0.52.0+1
+  googleapis_auth: ^0.2.6
