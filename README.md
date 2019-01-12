@@ -8,3 +8,5 @@ Then you'll need to put your client ID and client secret into the two constants 
 Since this would be an unverified Google App, you could only make the program authenticate you 100 times unfortunately. If you wanted to run it more than that, you would have to create a privacy policy, etc. and get them to verify you through the same Credentials page in the API Dashboard
 
 Once you have it running, add a new file to the directory of the program, and it will be added to your Google Drive
+
+Lastly, this is all assuming you already have dart installed and you've ran `pub get` to get the packages that this project requires (namely the googleapis packages)
